@@ -1,4 +1,6 @@
 # San Fransisco Fire Analysis
+![hush-naidoo-jade-photography-e5s4jQxEExo-unsplash](https://user-images.githubusercontent.com/41823726/182960853-ec01684e-ae2a-41ff-b204-342c82d2dd10.jpg)
+
 # Objective 1:
 Spatial assessments of fire events may provide additional information to planners and decision makers when developing fire safety policies. While it is hard to totally prevent fires, fire management based on big data analysis may help to lower the danger of fire.  Basic tactics include upgrading or constructing new fire stations closer to problem regions, moving present fire personnel and equipment into smaller and more widely distributed stations, and so on.
 # Objective 2:
