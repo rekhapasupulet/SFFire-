@@ -1,2 +1,9 @@
-# SF Fire Analysis
+# San Fransisco Fire Analysis
+# Objective 1:
+Spatial assessments of fire events may provide additional information to planners and decision makers when developing fire safety policies. While it is hard to totally prevent fires, fire management based on big data analysis may help to lower the danger of fire.  Basic tactics include upgrading or constructing new fire stations closer to problem regions, moving present fire personnel and equipment into smaller and more widely distributed stations, and so on.
+# Objective 2:
+It is frustrating for the fire department to respond to every call, including false calls. According to a study conducted in the United States, the number of bogus fire department calls has increased since 2012, wasting the time of firefighters. Three Machine Learning models are built in their ability to classify if a call is related to Fire / Just an Alarm / LifeThreatening / Non LifeThreatening based on location and time.
+
+
+
 ![big data poster](https://user-images.githubusercontent.com/41823726/170614033-739a49d8-6f75-42fe-9bc3-147b014e6c12.png)
