@@ -1,4 +1,4 @@
-# San Fransisco Fire Analysis
+# San Fransisco Fire Analysis (50M Records)
 ![hush-naidoo-jade-photography-e5s4jQxEExo-unsplash](https://user-images.githubusercontent.com/41823726/182960853-ec01684e-ae2a-41ff-b204-342c82d2dd10.jpg)
 
 # Objective 1:
@@ -10,3 +10,7 @@ It is frustrating for the fire department to respond to every call, including fa
 
 # Poster 
 ![big data poster](https://user-images.githubusercontent.com/41823726/170614033-739a49d8-6f75-42fe-9bc3-147b014e6c12.png)
+### Skills used:
+1. PySpark
+2. Jypyter Notebook & Databricks
+3. Spark MLib - KMeans, Decision Tree, Random Forest, GBDT 
