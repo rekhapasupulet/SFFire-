@@ -9,7 +9,7 @@ Spatial assessments of fire events may provide additional information to planner
 It is frustrating for the fire department to respond to every call, including false calls. According to a study conducted in the United States, the number of bogus fire department calls has increased since 2012, wasting the time of firefighters. Three Machine Learning models are built in their ability to classify if a call is related to Fire / Just an Alarm / LifeThreatening / Non LifeThreatening based on location and time.
 
 # Poster 
-![big data poster](https://user-images.githubusercontent.com/41823726/170614033-739a49d8-6f75-42fe-9bc3-147b014e6c12.png)
+![Big-Data-Project-Poster-B](https://user-images.githubusercontent.com/41823726/200448882-b0c7b3ce-7dc9-4716-a125-775f658fb235.jpeg)
 ### Skills used:
 1. PySpark
 2. Jypyter Notebook & Databricks
